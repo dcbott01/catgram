@@ -50,7 +50,8 @@ DONEE
 PLEASE READ FIRST
   
 ## Features
-- Auto Upgrade
-- Auto Mining and Feeding
+- Auto Tap
+- Auto Unlock and Upgrade
 - Auto Checkin Daily
 - Multi Account
+- Loop Every 30 Minutes
