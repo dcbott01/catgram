@@ -1,5 +1,5 @@
 
-# Kuroro Ranch Bot
+# CatGram Bot
 
 Register : https://t.me/catgram_play_bot/app?startapp=v4lv1BXuIT
 
