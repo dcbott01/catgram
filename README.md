@@ -37,7 +37,7 @@ PLEASE READ FIRST
      ```
      python getoken.py
      ```
-   - Jika status Login request was successful!, Maka token sudah tersimpan di token.txt
+   - Jika status Login request was successful!, Maka token sudah tersimpan di `token.txt
    - 
 8. **Jalankan bot.py**
    - Jika token sudah didapat, jalankan :
